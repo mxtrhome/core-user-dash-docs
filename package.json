@@ -1,0 +1,24 @@
+{
+  "name": "core-user-dash-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksim-maliauka/core-user-dash-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maksim-maliauka/core-user-dash-docs/issues"
+  },
+  "homepage": "https://github.com/maksim-maliauka/core-user-dash-docs#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.51"
+  }
+}
