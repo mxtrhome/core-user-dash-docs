@@ -4,7 +4,7 @@ import { defaultTheme } from '@vuepress/theme-default'
 export default defineUserConfig({
     dest: 'docs',
     lang: 'en-US',
-    base: 'https://maksim-maliauka.github.io/core-user-dash-docs/',
+    base: '/core-user-dash-docs/',
     title: 'MXTR Dashboard Documentation',
     description: 'Core user dashboard project UI documentation',
     head: [['link', { rel: 'icon', href: '/images/favicon.png' }]],

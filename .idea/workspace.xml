@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="206c8700-5781-49d7-901d-c5445f194001" name="Changes" comment="Build Updated folders structure">
+    <list default="true" id="206c8700-5781-49d7-901d-c5445f194001" name="Changes" comment="build update base link">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/config.js" afterDir="false" />
     </list>
@@ -98,7 +98,7 @@
       <updated>1663012731755</updated>
       <workItem from="1663012732951" duration="6169000" />
       <workItem from="1663067707145" duration="7029000" />
-      <workItem from="1663577141974" duration="10883000" />
+      <workItem from="1663577141974" duration="11340000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1663071372454</created>
@@ -142,7 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663587875076</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update base link">
+      <created>1663588061196</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663588061196</updated>
+    </task>
+    <task id="LOCAL-00008" summary="build update base link">
+      <created>1663588108304</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663588108304</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +179,8 @@
     <MESSAGE value="Add initial workflows docs" />
     <MESSAGE value="Update folders structure" />
     <MESSAGE value="Build Updated folders structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Build Updated folders structure" />
+    <MESSAGE value="update base link" />
+    <MESSAGE value="build update base link" />
+    <option name="LAST_COMMIT_MESSAGE" value="build update base link" />
   </component>
 </project>
