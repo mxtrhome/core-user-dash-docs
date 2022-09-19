@@ -20,5 +20,8 @@
   "homepage": "https://github.com/maksim-maliauka/core-user-dash-docs#readme",
   "devDependencies": {
     "vuepress": "^2.0.0-beta.51"
+  },
+  "dependencies": {
+    "@vuepress/theme-default": "^2.0.0-beta.51"
   }
 }
