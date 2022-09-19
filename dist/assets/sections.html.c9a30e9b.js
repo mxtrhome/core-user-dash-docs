@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-753833d2","path":"/workflows/sections.html","title":"Workflow Sections","lang":"en-US","frontmatter":{"title":"Workflow Sections"},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"workflows/sections.md"}');export{t as data};
