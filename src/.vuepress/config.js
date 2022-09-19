@@ -2,7 +2,7 @@ import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
 
 export default defineUserConfig({
-    dest: 'dist',
+    dest: 'docs',
     lang: 'en-US',
     title: 'MXTR Dashboard Documentation',
     description: 'Core user dashboard project UI documentation',

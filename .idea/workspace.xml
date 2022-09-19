@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="206c8700-5781-49d7-901d-c5445f194001" name="Changes" comment="build initial">
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/workflows/images/multiple_triggers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/workflows/images/simplest_workflow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/workflows/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/workflows/sections.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    <list default="true" id="206c8700-5781-49d7-901d-c5445f194001" name="Changes" comment="Add initial workflows docs">
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/404.html.c875ec31.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/404.html.c875ec31.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/404.html.d2dc3323.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/404.html.d2dc3323.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/app.c50f9005.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/app.c50f9005.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/back-to-top.8efcbe56.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/back-to-top.8efcbe56.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/index.html.263fd8b8.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/index.html.263fd8b8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/index.html.8688a4ad.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/index.html.8688a4ad.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/style.f4d22aab.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/style.f4d22aab.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/images/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/images/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/workflows/images/multiple_triggers.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/workflows/images/multiple_triggers.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/workflows/images/simplest_workflow.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/workflows/images/simplest_workflow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/workflows/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/workflows/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/workflows/sections.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/workflows/sections.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +104,7 @@
       <updated>1663012731755</updated>
       <workItem from="1663012732951" duration="6169000" />
       <workItem from="1663067707145" duration="7029000" />
-      <workItem from="1663577141974" duration="10181000" />
+      <workItem from="1663577141974" duration="10584000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1663071372454</created>
@@ -117,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663071644753</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add initial workflows docs">
+      <created>1663587436545</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663587436545</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +154,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial" />
     <MESSAGE value="build initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="build initial" />
+    <MESSAGE value="Add initial workflows docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add initial workflows docs" />
   </component>
 </project>
