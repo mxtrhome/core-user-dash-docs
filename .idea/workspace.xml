@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="206c8700-5781-49d7-901d-c5445f194001" name="Changes" comment="build update base link">
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/create_section_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/save_and_activate_wf_btns.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/section_menu_after_trigger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/send_email_activity_modal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/sectionMenu.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/sectionModals.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/workflows/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/workflows/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/workflows/sections.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/workflows/sections.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/maksmalavko/WebstormProjects/core-user-dash-docs/docs/.vuepress/public/images",
+    "last_opened_file_path": "/Users/maksmalavko/WebstormProjects/core-user-dash-docs-1/src",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
@@ -37,6 +46,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/docs/.vuepress/public/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -47,7 +57,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.docs:build">
+  <component name="RunManager" selected="npm.docs:dev">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
       <method v="2" />
     </configuration>
@@ -83,8 +93,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.docs:build" />
         <item itemvalue="npm.docs:dev" />
+        <item itemvalue="npm.docs:build" />
       </list>
     </recent_temporary>
   </component>
@@ -99,6 +109,7 @@
       <workItem from="1663012732951" duration="6169000" />
       <workItem from="1663067707145" duration="7029000" />
       <workItem from="1663577141974" duration="11340000" />
+      <workItem from="1663748788145" duration="167000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1663071372454</created>

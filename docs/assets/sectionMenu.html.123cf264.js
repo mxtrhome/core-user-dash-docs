@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0f2f5b49","path":"/workflows/sectionMenu.html","title":"Section Menu","lang":"en-US","frontmatter":{"title":"Section Menu"},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"workflows/sectionMenu.md"}');export{e as data};

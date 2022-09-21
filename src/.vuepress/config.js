@@ -17,7 +17,11 @@ export default defineUserConfig({
             },
             {
                 text: 'Workflows',
-                children: ['/workflows', '/workflows/sections.md'],
+                children: [
+                    '/workflows',
+                    '/workflows/sections.md',
+                    '/workflows/sectionMenu.md',
+                    '/workflows/sectionModals.md'],
             },
         ]
     }),
