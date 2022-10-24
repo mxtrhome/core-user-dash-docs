@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="206c8700-5781-49d7-901d-c5445f194001" name="Changes" comment="build update base link">
-      <change afterPath="$PROJECT_DIR$/src/workflows/images/create_section_btn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workflows/images/save_and_activate_wf_btns.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workflows/images/section_menu_after_trigger.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workflows/images/send_email_activity_modal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workflows/sectionMenu.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workflows/sectionModals.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/connections.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/technical.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/workflows/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/workflows/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/workflows/sections.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/workflows/sections.md" afterDir="false" />
     </list>
@@ -31,19 +25,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/maksmalavko/WebstormProjects/core-user-dash-docs-1/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/maksmalavko/WebstormProjects/core-user-dash-docs-1/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
@@ -110,6 +104,7 @@
       <workItem from="1663067707145" duration="7029000" />
       <workItem from="1663577141974" duration="11340000" />
       <workItem from="1663748788145" duration="167000" />
+      <workItem from="1666611272514" duration="7830000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1663071372454</created>

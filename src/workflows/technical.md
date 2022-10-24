@@ -1,0 +1,5 @@
+---
+Workflow entity
+---
+
+# {{ $page.title }}

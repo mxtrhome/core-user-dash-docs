@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-fbe93c3c","path":"/workflows/sectionModals.html","title":"Section Modals","lang":"en-US","frontmatter":{"title":"Section Modals"},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"workflows/sectionModals.md"}');export{t as data};
