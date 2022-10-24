@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="206c8700-5781-49d7-901d-c5445f194001" name="Changes" comment="build update base link">
-      <change afterPath="$PROJECT_DIR$/src/workflows/images/create_section_btn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workflows/images/save_and_activate_wf_btns.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workflows/images/section_menu_after_trigger.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workflows/images/send_email_activity_modal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workflows/sectionMenu.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workflows/sectionModals.md" afterDir="false" />
+    <list default="true" id="206c8700-5781-49d7-901d-c5445f194001" name="Changes" comment="add technical blocks for workflow entities description">
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/email_click_trigger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/email_open-trigger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/lead_add_to_list_activity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/lead_added_to_list_trigger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/lead_change_status_activity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/lead_compare_fied_trigger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/lead_compare_field_activity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/lead_created_trigger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/lead_moved_to_tenant_trigger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/lead_remove_from_list_activity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/lead_removed_from_list_trigger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/lead_status_changed_trigger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/multiple_connections_to_single_section.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/section_with_section_modal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/send_notification_email_activity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/single_to_multiple_connections.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/start_section.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workflows/images/timer_event_activity.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/workflows/images/send_email_activity_modal.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/workflows/images/send_email_activity_modal.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/workflows/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/workflows/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/workflows/sections.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/workflows/sections.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/workflows/technical.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/workflows/technical.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/maksmalavko/WebstormProjects/core-user-dash-docs-1/src",
+    "last_opened_file_path": "/Users/maksmalavko/WebstormProjects/core-user-dash-docs/src/workflows/images",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
@@ -46,15 +58,16 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/workflows/images" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/docs/.vuepress/public/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/workflows/images" />
       <recent name="$PROJECT_DIR$/docs/workflows/images" />
       <recent name="$PROJECT_DIR$/docs/workflows" />
       <recent name="$PROJECT_DIR$/docs/.vuepress/public/images/workflows" />
       <recent name="$PROJECT_DIR$/docs/.vuepress/public" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="npm.docs:dev">
@@ -110,6 +123,9 @@
       <workItem from="1663067707145" duration="7029000" />
       <workItem from="1663577141974" duration="11340000" />
       <workItem from="1663748788145" duration="167000" />
+      <workItem from="1666611272514" duration="16585000" />
+      <workItem from="1666948576700" duration="15283000" />
+      <workItem from="1667209231769" duration="26189000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1663071372454</created>
@@ -167,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663588108304</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add technical blocks for workflow entities description">
+      <created>1666620229908</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666620229908</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +215,7 @@
     <MESSAGE value="Build Updated folders structure" />
     <MESSAGE value="update base link" />
     <MESSAGE value="build update base link" />
-    <option name="LAST_COMMIT_MESSAGE" value="build update base link" />
+    <MESSAGE value="add technical blocks for workflow entities description" />
+    <option name="LAST_COMMIT_MESSAGE" value="add technical blocks for workflow entities description" />
   </component>
 </project>

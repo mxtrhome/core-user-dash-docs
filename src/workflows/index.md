@@ -37,6 +37,51 @@ We've just seen 4 of the 8 section roles:
 
 Check the full list of sections and their roles: [Workflow sections](/workflows/sections)
 
+## Connections
+Second important entity in workflow is a **Connection**. Connection matches two neighbour Activities visually you can 
+see them as lines between sections, but technically they are more complicated.
+If we are talking about huge workflow schemas with lots of branches or with multiple triggers in it, then we must use
+special "transitional" actions - [Join](workflow/sections#Join) and [Fork](workflow/sections#Fork), they allow us to 
+connect multiple sections to a single and vice versa single section to multiple.
+See detailed description of the [Connections](/workflows/connections)
+
+## Technical side of the workflow
+We already know that two important entities of any workflow are [Connection](/workflows/connections) and
+[Activity](/workflows/sections) but how it is working under the hood? Technically Connection and Activity are simple
+JS objects with number of properties.
+Connection object always has defined properties: 
+```javascript
+const connection = {
+    sourceActivityId: String, // id of "from" activity (uuid)
+    destinationActivityId: String, // id of "to" activity (uuid)
+    outcome: String, // id of the branch (uuid, and null if a single branch)
+}
+```
+As you can see connection is pretty simple object and displays destination and source activities information.
+
+Activity has a different structure and must contain all the information that needed for correct rendering of the section
+and making connections "from" and "to" its section.
+```javascript
+const activity = {
+    id: String, // uuidv
+    type: String, // activity name from the "constants/canvas/activities",
+    state: { // contains all the information for specific activity that must be saved on the back-end side
+        name: String,
+        role: String, // activity role form the "constants/canvas/sectionRoles"
+        // ...
+    },
+    items: { // contains visual parts of the section that must be rendered on the UI (not sends to the back-end)
+        primaryBtn: Object,
+        nextSectionStrokeLeft: Object,
+        // ...
+    },
+}
+```
+
+So as you may understand workflows is a number of activities and connections between them, so the Backend expects these
+two arrays from us. There are also few layers on the UI that are doing some preparations before we see beautiful schema
+in our UI. Check more detailed description of the [Workflow technical side](/workflows/technical)
+
 ## Creating a new Section
 By clicking ![Create Section](./images/create_section_btn.png) button you will open
 [Section Menu](/workflows/sectionMenu), this menu shows you the list of available sections at the current step. For
@@ -68,6 +113,6 @@ Otherwise, inactive workflows would never fire any Activity till you activate it
 
 > In case if your Workflow is already active you are still able to edit it, but you have to understand that, if
 > your workflow has already been started its execution for some users or leads, you will not see your changes in 
-> execution results, you will be able to use your edits only for new executions.
+> execution results for them, you will be able to use your edits only for new executions.
 
 
