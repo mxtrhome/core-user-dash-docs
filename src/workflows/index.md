@@ -79,8 +79,8 @@ const activity = {
 ```
 
 So as you may understand workflows is a number of activities and connections between them, so the Backend expects these
-two arrays from us. There are also few layers on the UI that are doing some preparations before we see new sections in 
-our UI. Check more detailed description of the [Workflow technical side](/workflows/technical)
+two arrays from us. There are also few layers on the UI that are doing some preparations before we see beautiful schema
+in our UI. Check more detailed description of the [Workflow technical side](/workflows/technical)
 
 ## Creating a new Section
 By clicking ![Create Section](./images/create_section_btn.png) button you will open
