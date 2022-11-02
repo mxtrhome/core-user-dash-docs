@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as n,a as e,b as o,t as c}from"./app.d57c3cde.js";const r={},i={id:"page-title",tabindex:"-1"},_=e("a",{class:"header-anchor",href:"#page-title","aria-hidden":"true"},"#",-1);function l(t,d){return s(),n("div",null,[e("h1",i,[_,o(" "+c(t.$page.title),1)])])}const f=a(r,[["render",l],["__file","sectionMenu.html.vue"]]);export{f as default};
