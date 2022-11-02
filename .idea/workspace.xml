@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="206c8700-5781-49d7-901d-c5445f194001" name="Changes" comment="build update base link">
-      <change afterPath="$PROJECT_DIR$/src/workflows/connections.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workflows/technical.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/workflows/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/workflows/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/workflows/sectionModals.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/workflows/sectionModals.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/workflows/sections.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/workflows/sections.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +12,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -105,6 +108,7 @@
       <workItem from="1663577141974" duration="11340000" />
       <workItem from="1663748788145" duration="167000" />
       <workItem from="1666611272514" duration="7830000" />
+      <workItem from="1667384253478" duration="7602000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1663071372454</created>

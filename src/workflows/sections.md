@@ -53,6 +53,7 @@ List of the existing Section Roles (`src/constants/canvas/sectionRoles.js`):
 ## Section types
 List of the existing Section types (Activities) (`src/constants/canvas/activities.js`):
 - [Start](#start)
+- [Finish](#finish)
 - [Join](#join)
 - [Fork](#fork)
 - [EmailClickTrigger](#emailclicktrigger)
@@ -112,12 +113,34 @@ is a first section in the workflow, but we are now saving Start section data in 
 
 The entity of Start section has the same structure and properties for any Workflow
 ```javascript
-const Start = {
+const start = {
     id: "uuid", 
     type: "Start", 
     state: {
         role: "start", 
         position: "center"
+    }, 
+    items: {...}
+}
+```
+
+### Finish
+As well as [Start](#start) section, "Finish" is also generates automatically. Each "branch" in the workflow must be
+ended with Finish section in other case we would not be able to save it. Finish section says: "there won't be any 
+section after me". 
+
+For example, when you create new "condition" section, [LeadCompareFieldActivity](#leadcomparefieldactivity), you will 
+notice that each branch here ends with Finish section.
+
+![Lead Compare Field Activity](./images/lead_compare_field_activity.png)
+
+Entity:
+```javascript
+const finish = {
+    id: "uuid", 
+    type: "Finish", 
+    state: {
+        role: "finish",
     }, 
     items: {...}
 }
@@ -651,6 +674,3 @@ into `v-for` that loops for `section.items` and builds canvas element based on t
         :props="item.props"
         .../>
 ```
-
-
-
