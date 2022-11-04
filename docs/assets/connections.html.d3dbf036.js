@@ -1,1 +1,0 @@
-import{_ as a,o as n,c as o,a as e,b as c,t as s}from"./app.d57c3cde.js";const r={},i={id:"page-title",tabindex:"-1"},_=e("a",{class:"header-anchor",href:"#page-title","aria-hidden":"true"},"#",-1);function l(t,d){return n(),o("div",null,[e("h1",i,[_,c(" "+s(t.$page.title),1)])])}const f=a(r,[["render",l],["__file","connections.html.vue"]]);export{f as default};
