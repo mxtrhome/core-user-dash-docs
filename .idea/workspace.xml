@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="206c8700-5781-49d7-901d-c5445f194001" name="Changes" comment="build update base link">
+    <list default="true" id="206c8700-5781-49d7-901d-c5445f194001" name="Changes" comment="Add section menu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/workflows/sectionModals.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/workflows/sectionModals.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/workflows/sections.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/workflows/sections.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/workflows/sectionMenu.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/workflows/sectionMenu.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +108,7 @@
       <workItem from="1663748788145" duration="167000" />
       <workItem from="1666611272514" duration="7830000" />
       <workItem from="1667384253478" duration="7602000" />
+      <workItem from="1667551885741" duration="11431000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1663071372454</created>
@@ -191,6 +191,7 @@
     <MESSAGE value="Build Updated folders structure" />
     <MESSAGE value="update base link" />
     <MESSAGE value="build update base link" />
-    <option name="LAST_COMMIT_MESSAGE" value="build update base link" />
+    <MESSAGE value="Add section menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add section menu" />
   </component>
 </project>
