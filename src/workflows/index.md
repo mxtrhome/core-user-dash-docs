@@ -1,5 +1,6 @@
 ---
 title: What is Workflow?
+displayAllHeaders: true
 ---
 
 # {{ $page.title }}
@@ -49,7 +50,7 @@ See detailed description of the [Connections](/workflows/connections)
 We already know that two important entities of any workflow are [Connection](/workflows/connections) and
 [Activity](/workflows/sections) but how it is working under the hood? Technically Connection and Activity are simple
 JS objects with number of properties.
-Connection object always has defined properties: 
+Connection object always have defined properties: 
 ```javascript
 const connection = {
     sourceActivityId: String, // id of "from" activity (uuid)
