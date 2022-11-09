@@ -21,7 +21,10 @@ export default defineUserConfig({
                     '/workflows',
                     '/workflows/sections.md',
                     '/workflows/sectionMenu.md',
-                    '/workflows/sectionModals.md'],
+                    '/workflows/sectionModals.md',
+                    '/workflows/connections.md',
+                    '/workflows/technical.md'
+                ],
             },
         ]
     }),
