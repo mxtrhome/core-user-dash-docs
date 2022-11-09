@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-79310a78","path":"/workflows/connections.html","title":"Connections","lang":"en-US","frontmatter":{"title":"Connections"},"excerpt":"","headers":[],"git":{"updatedTime":1666620229000,"contributors":[{"name":"maksim-maliauka","email":"maksim.maliauka@itechart-group.com","commits":1}]},"filePathRelative":"workflows/connections.md"}');export{t as data};
