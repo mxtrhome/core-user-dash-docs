@@ -584,8 +584,8 @@ Once we opened "Workflow edit" page (`views/workflows/Workflow.vue`) the `render
 3. calls `renderTemplate()` method - it is used for items (sections) building
 
 ### renderTemplate()
-As you may know ([Workflow under the hood](/workflows/technical)) we do not save `.items` data in the backend, it means 
-that we build all the UI items each time we get Workflow data (when open page for example).
+You have to remember that we do not save `.items` data in the backend, it means that we build all the UI items each time
+we get Workflow data (when open page for example).
 So for us there is two reasons to call `renderTemplate()`, first when we load the page and second when we change 
 something in opened workflow (add/update/delete new section).
 

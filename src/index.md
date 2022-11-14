@@ -49,5 +49,12 @@ Here you can find description of the core components, code examples and importan
    └─ router.js
 ```
 
-
-
+## Docs contents
+- [Workflow](./workflows)
+  - [Activities (Sections)](./workflows/sections.md)
+  - [Connections](./workflows/connections.md)
+  - [Section Modals](./workflows/sectionModals.md)
+  - [Section Menu](./workflows/sectionMenu.md)
+  - [Workflow under the hood](./workflows/technical.md)
+- [Email Editor](./email-editor)
+- [Lead Lists](./lead-lists)
