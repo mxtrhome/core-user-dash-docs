@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-30cdc232","path":"/lead-lists/","title":"Lead Lists","lang":"en-US","frontmatter":{"title":"Lead Lists"},"excerpt":"","headers":[],"git":{"updatedTime":1668170869000,"contributors":[{"name":"maksim-maliauka","email":"maksim.maliauka@itechart-group.com","commits":1}]},"filePathRelative":"lead-lists/index.md"}');export{a as data};

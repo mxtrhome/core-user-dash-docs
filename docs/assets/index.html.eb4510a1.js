@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-9f216e50","path":"/email-editor/","title":"Email Editor","lang":"en-US","frontmatter":{"title":"Email Editor"},"excerpt":"","headers":[],"git":{"updatedTime":1668170869000,"contributors":[{"name":"maksim-maliauka","email":"maksim.maliauka@itechart-group.com","commits":1}]},"filePathRelative":"email-editor/index.md"}');export{a as data};
