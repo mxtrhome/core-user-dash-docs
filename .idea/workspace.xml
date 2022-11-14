@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="206c8700-5781-49d7-901d-c5445f194001" name="Changes" comment="Add section menu">
-      <change afterPath="$PROJECT_DIR$/src/email-editor/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lead-lists/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/admin-dashboard/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/email-editor/images/email_editor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/email-editor/images/email_editor_selector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/email-editor/images/email_settings_modal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/email-editor/images/merge_tags_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lead-lists/images/add_lead_list_modal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lead-lists/images/edit_lead_list_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lead-lists/images/lead_list_actions_in_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lead-lists/images/lead_lists_page.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/workflows/sections.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/workflows/sections.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/workflows/technical.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/workflows/technical.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/email-editor/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/email-editor/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lead-lists/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/lead-lists/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/workflows/images/simplest_workflow_connections_example.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="add-workflow-techincal" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,11 +59,11 @@
       <recent name="$PROJECT_DIR$/docs/.vuepress/public/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/lead-lists/images" />
+      <recent name="$PROJECT_DIR$/src/email-editor/images" />
       <recent name="$PROJECT_DIR$/docs/workflows/images" />
       <recent name="$PROJECT_DIR$/docs/workflows" />
       <recent name="$PROJECT_DIR$/docs/.vuepress/public/images/workflows" />
-      <recent name="$PROJECT_DIR$/docs/.vuepress/public" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="npm.docs:dev">

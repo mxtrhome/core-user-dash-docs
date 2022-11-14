@@ -26,6 +26,14 @@ export default defineUserConfig({
                     '/workflows/technical.md'
                 ],
             },
+            {
+                text: 'Email Editor',
+                link: '/email-editor',
+            },
+            {
+                text: 'Lead Lists',
+                link: '/lead-lists',
+            }
         ]
     }),
 })
