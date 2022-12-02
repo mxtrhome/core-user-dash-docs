@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="206c8700-5781-49d7-901d-c5445f194001" name="Changes" comment="Add section menu">
-      <change afterPath="$PROJECT_DIR$/src/admin-dash/images/accounts_view.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/admin-dash/images/admin_dash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/admin-dash/images/groups_view.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/admin-dash/images/new_account_form.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/admin-dash/images/new_account_group.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/admin-dash/images/new_group_form.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/admin-dash/images/sub_accounts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/admin-dash/images/view_button.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/admin-dash/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/admin-dash/subAccounts.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_11_22,_13_29_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_11_22__13_29__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/admin-dash/subAccounts.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/admin-dash/subAccounts.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +109,7 @@
       <workItem from="1666611272514" duration="7830000" />
       <workItem from="1667384253478" duration="7602000" />
       <workItem from="1667551885741" duration="11431000" />
-      <workItem from="1669743814220" duration="18437000" />
+      <workItem from="1669743814220" duration="18603000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1663071372454</created>

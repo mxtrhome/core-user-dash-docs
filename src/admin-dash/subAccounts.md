@@ -82,7 +82,6 @@ You can see create new account or group form like below:
 ```javascript
 ...
     formSaved(value) {
-        // this.refreshUnmapped('accounts');
         let swalInfo;
         let defaults = {
             confirmButtonText: "Got it!",
