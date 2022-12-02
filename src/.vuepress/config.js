@@ -33,6 +33,13 @@ export default defineUserConfig({
             {
                 text: 'Lead Lists',
                 link: '/lead-lists',
+            },
+            {
+                text: 'Admin Dash',
+                children: [
+                    '/admin-dash',
+                    '/admin-dash/subAccounts.md',
+                ],
             }
         ]
     }),

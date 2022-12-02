@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="206c8700-5781-49d7-901d-c5445f194001" name="Changes" comment="Add section menu">
-      <change afterPath="$PROJECT_DIR$/src/admin-dashboard/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/email-editor/images/email_editor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/email-editor/images/email_editor_selector.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/email-editor/images/email_settings_modal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/email-editor/images/merge_tags_button.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lead-lists/images/add_lead_list_modal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lead-lists/images/edit_lead_list_page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lead-lists/images/lead_list_actions_in_menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lead-lists/images/lead_lists_page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/email-editor/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/email-editor/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lead-lists/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/lead-lists/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/workflows/images/simplest_workflow_connections_example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/admin-dash/subAccounts.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/admin-dash/subAccounts.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +12,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="add-workflow-techincal" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,19 +26,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/maksmalavko/projects/core-user-dash-docs/src/workflows/images&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "G:/Work/OJS/MXTR/core-user-dash-docs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/workflows/images" />
@@ -59,11 +46,11 @@
       <recent name="$PROJECT_DIR$/docs/.vuepress/public/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Work\OJS\MXTR\core-user-dash-docs\src\admin-dash\images" />
       <recent name="$PROJECT_DIR$/src/lead-lists/images" />
       <recent name="$PROJECT_DIR$/src/email-editor/images" />
       <recent name="$PROJECT_DIR$/docs/workflows/images" />
       <recent name="$PROJECT_DIR$/docs/workflows" />
-      <recent name="$PROJECT_DIR$/docs/.vuepress/public/images/workflows" />
     </key>
   </component>
   <component name="RunManager" selected="npm.docs:dev">
@@ -122,6 +109,7 @@
       <workItem from="1666611272514" duration="7830000" />
       <workItem from="1667384253478" duration="7602000" />
       <workItem from="1667551885741" duration="11431000" />
+      <workItem from="1669743814220" duration="18603000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1663071372454</created>
